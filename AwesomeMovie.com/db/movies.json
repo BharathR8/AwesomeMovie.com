@@ -1,0 +1,122 @@
+[
+  {
+    "id":1,
+    "title":"Pulp Fiction",
+    "year":"1994",
+    "type":"Action",
+    "director":"Quentin Tarantino",
+    "rating":5,
+    "img":"1.jpg",
+    "desc":"Vincent Vega and Jules Winnfield are two hit men on the hunt for a briefcase whose contents were stolen from their boss, Marsellus Wallace. They run into a few unexpected detours along the road. Marsellus is out of town, and he's gotten Vincent to take care of his wife, Mia. Things go smoothly until one of them makes a huge error."
+  },
+  {
+    "id":2,
+    "title":"Suicide Squad",
+    "year":"2016",
+    "type":"Comics",
+    "director":"David Ayer",
+    "rating":3,
+    "img":"2.jpg",
+    "desc":"A secret government agency recruits some of the most dangerous incarcerated super-villains to form a defensive task force. Their first mission: save the world from the apocalypse."
+  },
+  {
+    "id":3,
+    "title":"South Paw",
+    "year":"2015",
+    "type":"Action",
+    "director":"Antoine Fuqua",
+    "rating":4,
+    "img":"3.jpg",
+    "desc":"A champion boxer fights to get his daughter back from child protective services as well as revive his professional career, after a fatal incident sends him on a rampant path of destruction."
+  },
+  {
+    "id":4,
+    "title":"La-la-land",
+    "year":"2016",
+    "type":"Musical",
+    "director":"Damien Chazelle",
+    "rating":3,
+    "img":"4.jpg",
+    "desc":"While navigating their careers in Los Angeles, a pianist and an actress fall in love while attempting to reconcile their aspirations for the future."
+  },
+  {
+    "id":5,
+    "title":"Last Samurai",
+    "year":"2003",
+    "type":"Action",
+    "director":"Edward Zwick",
+    "rating":4,
+    "img":"5.jpg",
+    "desc":"An American military advisor embraces the Samurai culture he was hired to destroy after he is captured in battle."
+  },
+  {
+    "id":6,
+    "title":"Man on fire",
+    "year":"2004",
+    "type":"Action",
+    "director":"Tony Scott",
+    "rating":2,
+    "img":"6.jpg",
+    "desc":"In Mexico City, a former assassin swears vengeance on those who committed an unspeakable act against the family he was hired to protect."
+  },
+  {
+    "id":7,
+    "title":"No country for old men",
+    "year":"2007",
+    "type":"Drama",
+    "director":"Ethan Coen",
+    "rating":5,
+    "img":"7.jpg",
+    "desc":"Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande."
+  },
+  {
+    "id":8,
+    "title":"Tropic Thunder",
+    "year":"2008",
+    "type":"Action",
+    "director":"Ben Stiller",
+    "rating":1,
+    "img":"8.jpg",
+    "desc":"Through a series of freak occurrences, a group of actors shooting a big-budget war movie are forced to become the soldiers they are portraying."
+  },
+  {
+    "id":9,
+    "title":"Robocop",
+    "year":"1987",
+    "type":"Action",
+    "director":"Paul Verhoeven",
+    "rating":4,
+    "img":"9.jpg",
+    "desc":"In a dystopic and crime-ridden Detroit, a terminally wounded cop returns to the force as a powerful cyborg haunted by submerged memories."
+  },
+  {
+    "id":10,
+    "title":"Kill Bill: Vol. 1",
+    "year":"2003",
+    "type":"Action",
+    "director":"Quentin Tarantino",
+    "rating":4,
+    "img":"10.jpg",
+    "desc":"A former assassin known as The Bride wakens from a four-year coma. The child she carried in her womb is  gone. Now she must wreak vengeance on the team of assassins who betrayed her - a team she was once part of."
+  },
+  {
+    "id":11,
+    "title":"Dumb and dumber",
+    "year":"1994",
+    "type":"Comedy",
+    "director":"Peter Farrelly",
+    "rating":3,
+    "img":"11.jpg",
+    "desc":"The cross-country adventures of 2 good-hearted but incredibly stupid friends."
+  },
+  {
+    "id":12,
+    "title":"Fight Club",
+    "year":"1999",
+    "type":"Action",
+    "director":"David Fincher",
+    "rating":4,
+    "img":"12.jpg",
+    "desc":"An insomniac office worker, looking for a way to change his life, crosses paths with a devil-may-care soapmaker,forming an underground fight club that evolves into something much, much more."
+  }
+]
